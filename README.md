@@ -17,7 +17,7 @@
 
 ### 2.Password Strength Check:
 
-Your password's strength is checked based on these points:
+The password's strength is checked based on these points:
 
 * Does it have uppercase letters?
 
